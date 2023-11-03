@@ -7,19 +7,23 @@
   align-items: center;
 }
 .container {
-  background-color: #000000;
   text-align: center;
   border-radius: 8px;
   border-color: #000000;
 }
 .light-mode {
   background-color: #ffffff;
+  border: solid 2px #000000;
 }
 .dark-mode {
   background-color: #000000;
 }
 .head-text {
   color: #ffffff;
+  padding: 15px;
+}
+.header {
+  color: #000000;
   padding: 15px;
 }
 .light-btn {
